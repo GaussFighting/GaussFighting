@@ -20,11 +20,9 @@ that connect business systems and automate operational workflows.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GaussFighting&color=blueviolet&style=flat-square)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GaussFighting&theme=tokyonight&no-frame=true&row=1)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaussFighting&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaussFighting&show_icons=true&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaussFighting&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 
@@ -97,6 +95,7 @@ that connect business systems and automate operational workflows.
 
 
 <!--
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GaussFighting&theme=tokyonight&no-frame=true&row=1)
 **GaussFighting/GaussFighting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
