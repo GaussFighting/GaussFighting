@@ -24,7 +24,7 @@ that connect business systems and automate operational workflows.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaussFighting&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWOJ_LOGIN&show_icons=true&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaussFighting&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ## 🛠️ Tech Stack
 
