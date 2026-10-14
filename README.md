@@ -12,8 +12,6 @@ that connect business systems and automate operational workflows.
 
 📍 Wrocław, Poland
 
-[LinkedIn](https://www.linkedin.com/in/krzysztof-kowerczyk-236715187)
-
 ## 📊 GitHub Statistics
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Hi%2C+I'm+Krzysztof+Kowerczyk;Developer+in+progress;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
@@ -83,7 +81,11 @@ that connect business systems and automate operational workflows.
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
 
+## 📫 Contacts
 
+- Email: [krzysztof.kowerczyk@gmail.com](mailto:krzysztof.kowerczyk@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/krzysztof-kowerczyk-236715187/)
+- GitHub: [GaussFighting](https://github.com/GaussFighting)
 
 
 
