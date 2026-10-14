@@ -16,7 +16,7 @@ that connect business systems and automate operational workflows.
 
 ## 📊 GitHub Statistics
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Hi%2C+I'm+YOUR_NAME;Developer+in+progress;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Hi%2C+I'm+Krzysztof+Kowerczyk;Developer+in+progress;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GaussFighting&color=blueviolet&style=flat-square)
 
