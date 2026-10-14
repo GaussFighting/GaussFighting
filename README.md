@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi I'm Krzysztof Kowerczyk 👋
 
+## 📊 GitHub Statistics
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaussFighting&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaussFighting&layout=compact&theme=tokyonight&hide_border=true)
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GaussFighting&theme=tokyo-night&hide_border=true)](https://github.com/TWOJ_LOGIN)
 <!--
 **GaussFighting/GaussFighting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
