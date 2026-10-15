@@ -81,7 +81,7 @@ that connect business systems and automate operational workflows.
 ## 📫 Contacts
 
 - Email: [krzysztof.kowerczyk@gmail.com](mailto:krzysztof.kowerczyk@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/krzysztof-kowerczyk-236715187/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/krzysztof-kowerczyk)
 - GitHub: [GaussFighting](https://github.com/GaussFighting)
 
 
