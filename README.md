@@ -74,6 +74,7 @@ that connect business systems and automate operational workflows.
 ![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FA5E9?style=for-the-badge&logo=sap&logoColor=white)
 
 ### 📝 Documentation & Community
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
 
